@@ -4,6 +4,7 @@
 #include<time.h>
 #include <string.h>
 
+//test
 unsigned int getRand();
 unsigned int CircleLeftShift(unsigned int x,unsigned int N);
 unsigned int calulY(unsigned int d0,unsigned int d1,unsigned int d2,unsigned int d3,unsigned int d4,int num,unsigned int m);
